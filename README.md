@@ -36,8 +36,8 @@ Train a Logistic Regression classifier.
 Print precision, recall, F1-score.
 Implement a function to vectorize and predict new feedback.
 
-📌 Requirements
-Install all dependencies using:
+📌 Requirements:
+Install all dependencies using,
 bash:
 pip install numpy pandas scikit-learn
 Python 3.7+ recommended.
